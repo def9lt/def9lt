@@ -8,8 +8,7 @@
   Ценю чистый код, минималистичный UI и гибкость Linux-окружения.
 </p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![Portfolio](https://img.shields.io/badge/Website-pcmaker.uz-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pcmaker.uz)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/photoshopgame)
 
 ---
 
