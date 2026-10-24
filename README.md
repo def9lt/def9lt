@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Шох 👋
+# Привет, я Lux 👋
 ### Full-Stack & Automation Developer | Linux Enthusiast
 
 <p align="center">
